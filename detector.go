@@ -22,7 +22,7 @@ import (
 	"embed"
 	"fmt"
 	"github.com/shopspring/decimal"
-	"github.com/t3mnikov/li
+	"github.com/t3mnikov/lingua-go/serialization"
 	"golang.org/x/exp/maps"
 	"golang.org/x/exp/slices"
 	"google.golang.org/protobuf/proto"
