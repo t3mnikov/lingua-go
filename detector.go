@@ -21,8 +21,8 @@ import (
 	"bytes"
 	"embed"
 	"fmt"
-	"github.com/pemistahl/lingua-go/serialization"
 	"github.com/shopspring/decimal"
+	"github.com/t3mnikov/li
 	"golang.org/x/exp/maps"
 	"golang.org/x/exp/slices"
 	"google.golang.org/protobuf/proto"
